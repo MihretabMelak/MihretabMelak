@@ -1,11 +1,11 @@
-# 👋 Hello, World! I'm Mihretab Melak
+# 👋 Hello, MF'g World! I'm Mihretab Melak
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/151950801?v=4" width="150" height="150" style="border-radius: 50%;" alt="Mihretab Melak Avatar"/>
 </p>
 
 ---
-🌟 **Junior Developer | Lifelong Learner | Code Adventurer**  
+🌟 **Junior full-stack Developer | Lifelong G | Code Adventurer 
 🛠️ Golang • Svelte • TypeScript • Always Curious  
 🌍 Based on the web, exploring everywhere
 
@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m Mihretab, a junior full-stack developer who codes with curiosity and a big smile.
-- 🦾 My toolkit? **Golang** for backend wizardry, **Svelte** for slick UIs, and a love for learning that knows no bounds.
+- 👨‍💻 I’m Mihretab, a 23 Yr Old junior full-stack developer who codes with curiosity and a big smile.
+- 🦾 My toolkit? My Stone age Laptop, **Golang** for backend wizardry, **Svelte** for slick UIs, and a love for learning that knows no bounds.
 - 🌱 “Interested in everything” is my motto! If it’s new, shiny, or challenging, you’ll find me there.
 - 🤝 Collaboration is my jam—let’s build something cool together!
 
@@ -30,18 +30,16 @@
 
 ## ✨ Fun Facts & Philosophy
 
-- 🎲 Always up for a new challenge, hackathon, or tech rabbit hole.
 - 🧩 Problem solver at heart, fueled by coffee and curiosity.
 - 😎 I believe in building, breaking, and learning—every single day.
 - 🗣️ Favorite quote:  
-  > _"I didn't come this far just to come this far."_  
-  > — Drake
+  > "I didn't come this far just to come this far." — Drake
 
 ---
 
 ## 🌐 Connect with Me!
 
-- 📧 [mihretabym@gmail.com](mailto:mihretabym@gmail.com)
+- 📧 [mihretabmelak@gmail.com](mailto:mihretabmelak@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mihretabmelak)
 - 📄 [My CV/Resume](https://github.com/MihretabMelak/Files/blob/main/Mihretab-Melak-FlowCV-Resume-20250301.pdf)
 - 🌟 [GitHub Profile](https://github.com/MihretabMelak)
